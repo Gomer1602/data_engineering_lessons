@@ -1,0 +1,1 @@
+print('Tvoey mame zyat ne nuzhen?')
